@@ -1,1 +1,2 @@
 Esta ‚ a primeira linha 
+"Esta ‚ a segunda linha (conflito)" 
